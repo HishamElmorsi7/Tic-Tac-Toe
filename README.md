@@ -6,6 +6,7 @@ You can start the game as following :
 -write pry
 -then load game.rb
 -then make an instance of the game :
+
     game1 = Game.new(5, x: false, y: true)
     5 => is the size of the grid
     x: and y: => are marks of the players
