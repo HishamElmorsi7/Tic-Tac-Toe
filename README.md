@@ -11,7 +11,7 @@ open terminal, write pry, load game.rb and make an instance of the Game class :
         false => if U want the player to be a human
     .
 
-Finally, write game1.play
+Finally, write game1.play to start ;)
 
 
 
